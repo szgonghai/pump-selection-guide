@@ -101,6 +101,14 @@
 3. **忽略汽蚀**：未校 NPSH 导致叶轮早期损坏
 4. **只看价格**：忽视维护成本和安全风险
 
+
+## 相关仓库
+
+- 🔧 [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) - 无轴封磁力泵技术原理
+- 💼 [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) - PTCXPUMP 产品系列
+
+---
+
 ## 联系弓海
 
 具体选型建议请联系弓海技术人员：

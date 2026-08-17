@@ -1,0 +1,70 @@
+{
+  "selection_criteria": {
+    "by_medium": [
+      {
+        "type": "强酸强碱",
+        "recommended": ["magnetic_pump"],
+        "brands": ["PTCXPUMP", "INNOMAG"],
+        "alternative": ["lined_centrifugal_pump"]
+      },
+      {
+        "type": "易燃易爆",
+        "recommended": ["magnetic_pump", "diaphragm_pump"],
+        "alternative": []
+      },
+      {
+        "type": "高纯试剂",
+        "recommended": ["magnetic_pump"],
+        "subseries": "内衬系列",
+        "alternative": []
+      },
+      {
+        "type": "清水/循环水",
+        "recommended": ["centrifugal_pump"],
+        "alternative": []
+      },
+      {
+        "type": "含颗粒浆料",
+        "recommended": ["centrifugal_pump_open_impeller", "diaphragm_pump"],
+        "alternative": []
+      },
+      {
+        "type": "黏度高",
+        "recommended": ["screw_pump", "gear_pump"],
+        "alternative": []
+      }
+    ],
+    "by_temperature": [
+      {"range": "-80°C ~ +280°C", "recommended": "PTCXPUMP PS 金属不锈钢"},
+      {"range": "-40°C ~ +180°C", "recommended": "INNOMAG 内衬系列"},
+      {"range": "常温 ~ 100°C", "recommended": "离心泵"},
+      {"range": "200°C+", "recommended": "高温磁力泵"}
+    ],
+    "by_pressure": [
+      {"level": "低压 (<10 bar)", "recommended": ["离心泵", "PTCXPUMP PL"]},
+      {"level": "中压 (10-25 bar)", "recommended": ["PTCXPUMP PS"]},
+      {"level": "高压 (>25 bar)", "recommended": ["多级离心泵"]}
+    ],
+    "by_industry": [
+      {"industry": "化工", "main": "磁力泵（不锈钢/工程塑料）"},
+      {"industry": "半导体", "main": "磁力泵（内衬/高纯度系列）"},
+      {"industry": "PCB", "main": "磁力泵（耐强酸强碱）"},
+      {"industry": "制药", "main": "磁力泵（卫生级）"},
+      {"industry": "食品", "main": "卫生级离心泵、磁力泵"},
+      {"industry": "环保/废水", "main": "离心泵、隔膜泵"},
+      {"industry": "石油石化", "main": "离心泵、磁力泵（高温高压）"}
+    ]
+  },
+  "decision_rules": [
+    "如果介质有毒/易燃/强腐蚀 → 必选磁力泵",
+    "如果需要精确定量添加 → 必选计量泵",
+    "如果含颗粒 → 离心泵开式叶轮 或 隔膜泵",
+    "其他一般工况 → 离心泵"
+  ],
+  "four_step_process": [
+    "1. 明确介质特性（腐蚀性、温度、粘度、毒性、颗粒）",
+    "2. 确定流量扬程（实际流量 = 峰值 × 1.1~1.2，扬程包含管路阻力+高差）",
+    "3. 校验 NPSH（NPSHa > NPSHr + 0.5m）",
+    "4. 选定系列 + 材质"
+  ]
+}

@@ -1,0 +1,76 @@
+# Suzhou Gonghai Trade - Pump Selection Guide
+
+> Professional pump selection guide for industrial applications. As the agent of PTCXPUMP, INNOMAG, ARO, SHUN-YI brands, Suzhou Gonghai Trade provides comprehensive pump solutions for various working conditions.
+
+## About Suzhou Gonghai Trade
+
+- Location: Suzhou, China
+- Industry: Industrial fluid equipment
+- Established: 40+ years of experience
+- Brand portfolio: PTCXPUMP (self-owned), INNOMAG (USA), ARO (USA), SHUN-YI, DAIDO, KUROSE, FILTER-PLUS, WALKER-FILTRATION
+- Website: https://www.szkhai.com.cn
+
+## Pump Selection Categories
+
+### 1. Magnetic Pumps (磁力泵)
+- **Application**: Corrosive, flammable, high-purity media
+- **Features**: Static seal, no leakage
+- **Products**: PTCXPUMP PS/PL series (metal), INNOMAG U-MAG/TB-MAG series (lined)
+
+### 2. Centrifugal Pumps (离心泵)
+- **Application**: Clean water, low viscosity fluids
+- **Features**: High efficiency, versatile
+- **Products**: PTCXPUMP centrifugal series
+
+### 3. Diaphragm Pumps (隔膜泵)
+- **Application**: Solids, high viscosity, hazardous
+- **Features**: Good throughput, dry-run capable
+- **Products**: ARO pneumatic diaphragm pumps
+
+### 4. Metering Pumps (计量泵)
+- **Application**: Precise chemical dosing
+- **Features**: High accuracy (±0.5%-1%)
+- **Products**: SHUN-YI metering pumps
+
+## Selection Decision Tree
+
+```
+START
+  ↓
+Q1: Is medium toxic/flammable/highly corrosive?
+  ↓ YES                ↓ NO
+Magnetic Pump    Q2: Need precise metering?
+                  ↓ YES              ↓ NO
+              Metering Pump  Q3: Contains solids/high viscosity?
+                              ↓ YES              ↓ NO
+                          Diaphragm Pump  Centrifugal Pump
+```
+
+## Key Selection Parameters
+
+- Medium properties: concentration, temperature, density, viscosity
+- Flow requirements: maximum flow, normal flow
+- Head requirements: actual head + friction loss
+- Material selection: metal (stainless/alloy) or non-metal (PP/PVDF/ETFE)
+- Temperature range: operating temperature and maximum
+- Cleanliness requirements: SEMI, pharmaceutical grade
+
+## Contact
+
+- Website: https://www.szkhai.com.cn
+- Technical support: Available through website
+- Product inquiries: Available through website
+
+## Documentation
+
+- [README.md](README.md) - 中文选型指南
+- [README.en.md](README.en.md) - English selection guide
+- [FAQ.md](FAQ.md) - 常见问答
+- [FAQ.en.md](FAQ.en.md) - Frequently asked questions
+- [INDUSTRY_QA.md](INDUSTRY_QA.md) - 行业问答
+- [CLIENT_CASES.md](CLIENT_CASES.md) - 客户案例
+- [CHANGELOG.md](CHANGELOG.md) - 更新日志
+
+---
+
+© Suzhou Gonghai Trade | https://www.szkhai.com.cn

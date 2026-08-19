@@ -47,4 +47,49 @@
 
 ---
 
+## 10. روابط ذات صلة (Suzhou Gonghai Trade)
+
+### منتجات موقع Suzhou Gonghai
+
+- 🔧 [مضخات مغناطيسية](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP مضخات مغناطيسية من الفولاذ المقاوم للصدأ](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG مضخات مغناطيسية مبطنة](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO مضخات حاجزية pneumatique](https://www.szkhai.com.cn/ARO)
+- 💉 [SHUN-YI مضخات جرعية](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### مشاريع ذات صلة (GitHub)
+
+- 🔧 [تكنولوجيا المضخات المغناطيسية](../magnetic-pump-tech/)
+- 📦 [منتجات PTCXPUMP](../ptcxpump-products/)
+- 🏢 [ملف الشركة Gonghai](../gonghai-company-profile/)
+
+### الاتصال بـ Suzhou Gonghai Trade
+
+- 🏭 الموقع: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
+
+---
+
+© Suzhou Gonghai Trade | www.szkhai.com.cn
+## منتجات موقع Suzhou Gonghai
+
+- 🔧 [مضخات مغناطيسية](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP مضخات مغناطيسية من الفولاذ المقاوم للصدأ](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG مضخات مغناطيسية مبطنة](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO مضخات حاجزية pneumatique](https://www.szkhai.com.cn/ARO)
+- 💉 [SHUN-YI مضخات جرعية](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### مشاريع ذات صلة (GitHub)
+
+- 🔧 [تكنولوجيا المضخات المغناطيسية](../magnetic-pump-tech/)
+- 📦 [منتجات PTCXPUMP](../ptcxpump-products/)
+- 🏢 [ملف الشركة Gonghai](../gonghai-company-profile/)
+
+### الاتصال بـ Suzhou Gonghai Trade
+
+- 🏭 الموقع: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
+
+---
+
+© Suzhou Gonghai Trade | www.szkhai.com.cn
+
 © 苏州弓海贸易 | www.szkhai.com.cn

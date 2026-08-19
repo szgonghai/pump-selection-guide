@@ -347,11 +347,25 @@ NPSHa > NPSHr + 安全余量（通常 0.5~1m）
 
 ---
 
-## 10. 相关项目（苏州弓海贸易）
+## 10. 相关链接（苏州弓海贸易）
+
+### 弓海官网产品系列
+
+- 🔧 [磁性泵浦产品](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP 金属不锈钢磁力泵](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG 内衬磁力泵](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO 气动隔膜泵](https://www.szkhai.com.cn/ARO)
+- 💉 [顺益（SHUN-YI）计量加药泵](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### 弓海相关项目（GitHub 仓库）
 
 - 🔧 [磁力泵技术原理](../magnetic-pump-tech/)
 - 📦 [PTCXPUMP 产品系列](../ptcxpump-products/)
 - 🏢 [弓海公司资料](../gonghai-company-profile/)
+
+### 联系苏州弓海贸易
+
+- 🏭 官网：[https://www.szkhai.com.cn](https://www.szkhai.com.cn)
 
 ---
 

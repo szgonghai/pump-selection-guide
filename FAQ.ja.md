@@ -39,8 +39,13 @@ Head = Actual head + Pipe friction + Valve losses + Safety margin (10-20%)
 - On-site commissioning
 - Free selection consultation
 
-**Contact**: www.szkhai.com.cn
+
+**関連リンク** (蘇州弓海貿易プロジェクト):
+- ポンプ選定ガイド: [../pump-selection-guide/README.md](https://github.com/szgonghai/pump-selection-guide)
+- マグネチックポンプ技術: [../magnetic-pump-tech/README.md](https://github.com/szgonghai/magnetic-pump-tech)
+- PTCXPUMP 製品: [../ptcxpump-products/README.md](https://github.com/szgonghai/ptcxpump-products)
+- 会社プロフィール: [../gonghai-company-profile/README.md](https://github.com/szgonghai/gonghai-company-profile)
 
 ---
 
-© 知不识 www.zhibushi.com
+© 苏州弓海贸易 | www.szkhai.com.cn

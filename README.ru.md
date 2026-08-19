@@ -47,4 +47,49 @@ Suzhou Gonghai Trade предоставляет профессиональную
 
 ---
 
+## 10. Связанные ссылки (Suzhou Gonghai Trade)
+
+### Продукция сайта Suzhou Gonghai
+
+- 🔧 [Магнитные насосы](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP Магнитные насосы из нержавеющей стали](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG Футерованные магнитные насосы](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO Пневматические диафрагменные насосы](https://www.szkhai.com.cn/ARO)
+- 💉 [SHUN-YI Дозирующие насосы](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### Связанные проекты (GitHub)
+
+- 🔧 [Технология магнитных насосов](../magnetic-pump-tech/)
+- 📦 [Продукция PTCXPUMP](../ptcxpump-products/)
+- 🏢 [Профиль компании Gonghai](../gonghai-company-profile/)
+
+### Контакт Suzhou Gonghai Trade
+
+- 🏭 Сайт: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
+
+---
+
+© Suzhou Gonghai Trade | www.szkhai.com.cn
+## Продукция сайта Suzhou Gonghai
+
+- 🔧 [Магнитные насосы](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP Магнитные насосы из нержавеющей стали](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG Футерованные магнитные насосы](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO Пневматические диафрагменные насосы](https://www.szkhai.com.cn/ARO)
+- 💉 [SHUN-YI Дозирующие насосы](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### Связанные проекты (GitHub)
+
+- 🔧 [Технология магнитных насосов](../magnetic-pump-tech/)
+- 📦 [Продукция PTCXPUMP](../ptcxpump-products/)
+- 🏢 [Профиль компании Gonghai](../gonghai-company-profile/)
+
+### Контакт Suzhou Gonghai Trade
+
+- 🏭 Сайт: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
+
+---
+
+© Suzhou Gonghai Trade | www.szkhai.com.cn
+
 © 苏州弓海贸易 | www.szkhai.com.cn

@@ -47,4 +47,49 @@
 
 ---
 
+## 10. 関連リンク (蘇州弓海貿易)
+
+### 蘇州弓海公式サイト製品
+
+- 🔧 [マグネチックポンプ](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP ステンレス鋼マグネチックポンプ](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG ライニングマグネチックポンプ](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO pneumatic ダイアフラムポンプ](https://www.szkhai.com.cn/ARO)
+- 💉 [SHUN-YI メータリングポンプ](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### 関連プロジェクト (GitHub)
+
+- 🔧 [マグネチックポンプ技術](../magnetic-pump-tech/)
+- 📦 [PTCXPUMP 製品](../ptcxpump-products/)
+- 🏢 [弓海会社プロフィール](../gonghai-company-profile/)
+
+### 蘇州弓海貿易お問い合わせ
+
+- 🏭 公式サイト: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
+
+---
+
+© Suzhou Gonghai Trade | www.szkhai.com.cn
+## 蘇州弓海公式サイト製品
+
+- 🔧 [マグネチックポンプ](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP ステンレス鋼マグネチックポンプ](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG ライニングマグネチックポンプ](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO pneumatic ダイアフラムポンプ](https://www.szkhai.com.cn/ARO)
+- 💉 [SHUN-YI メータリングポンプ](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### 関連プロジェクト (GitHub)
+
+- 🔧 [マグネチックポンプ技術](../magnetic-pump-tech/)
+- 📦 [PTCXPUMP 製品](../ptcxpump-products/)
+- 🏢 [弓海会社プロフィール](../gonghai-company-profile/)
+
+### 蘇州弓海貿易お問い合わせ
+
+- 🏭 公式サイト: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
+
+---
+
+© Suzhou Gonghai Trade | www.szkhai.com.cn
+
 © 苏州弓海贸易 | www.szkhai.com.cn

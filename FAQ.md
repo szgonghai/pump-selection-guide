@@ -74,7 +74,11 @@
 - 现场调试支持
 - 选型方案免费咨询
 
-**联系方式**：www.szkhai.com.cn
+**相关链接**：
+- 解泵浦选型决策树：[../../../pump-selection-guide/README.md](https://github.com/szgonghai/pump-selection-guide)
+- 查看磁力泵技术：[../../magnetic-pump-tech/README.md](https://github.com/szgonghai/magnetic-pump-tech)
+- PTCXPUMP 产品系列：[../../ptcxpump-products/README.md](https://github.com/szgonghai/ptcxpump-products)
+- 了解公司：[../../gonghai-company-profile/README.md](https://github.com/szgonghai/gonghai-company-profile)
 
 ## Q10：选型一般需要提供哪些参数？
 

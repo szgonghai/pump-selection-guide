@@ -41,10 +41,11 @@ Head = Actual head + Pipe friction + Valve losses + Safety margin (10-20%)
 
 
 **Verwandte Links** (Suzhou Gonghai Trade Projekte):
-- Pumpenauswahl-Leitfaden: [../pump-selection-guide/README.md](https://github.com/szgonghai/pump-selection-guide)
-- Magnetpumpen-Technologie: [../magnetic-pump-tech/README.md](https://github.com/szgonghai/magnetic-pump-tech)
-- PTCXPUMP Produkte: [../ptcxpump-products/README.md](https://github.com/szgonghai/ptcxpump-products)
-- Unternehmensprofil: [../gonghai-company-profile/README.md](https://github.com/szgonghai/gonghai-company-profile)
+- Pumpenauswahl-Leitfaden: [Ansehen](https://github.com/szgonghai/pump-selection-guide)
+- Magnetpumpen-Technologie: [Ansehen](https://github.com/szgonghai/magnetic-pump-tech)
+- PTCXPUMP Produkte: [Ansehen](https://github.com/szgonghai/ptcxpump-products)
+- Unternehmensprofil: [Ansehen](https://github.com/szgonghai/gonghai-company-profile)
+- 🏭 Suzhou Gonghai Website: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
 
 ---
 

@@ -1,77 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" font-family="Microsoft YaHei, sans-serif">
-  <!-- 背景 -->
-  <rect width="600" height="700" fill="#f8f9fa"/>
-  
-  <!-- 开始 -->
-  <ellipse cx="300" cy="50" rx="60" ry="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="300" y="56" text-anchor="middle" fill="white" font-size="16" font-weight="bold">开始</text>
-  
-  <!-- 问题 1 -->
-  <rect x="200" y="120" width="200" height="60" rx="5" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-  <text x="300" y="145" text-anchor="middle" fill="#212529" font-size="13">介质有毒/易燃/强腐蚀？</text>
-  <text x="300" y="165" text-anchor="middle" fill="#666" font-size="11">Question 1</text>
-  
-  <!-- 连接线 -->
-  <line x1="300" y1="75" x2="300" y2="120" stroke="#495057" stroke-width="2"/>
-  
-  <!-- YES 分支 -->
-  <path d="M 200 150 L 100 150 L 100 220" stroke="#28a745" stroke-width="2" fill="none"/>
-  <text x="140" y="145" fill="#28a745" font-size="14" font-weight="bold">YES</text>
-  
-  <!-- NO 分支 -->
-  <path d="M 400 150 L 500 150 L 500 220" stroke="#dc3545" stroke-width="2" fill="none"/>
-  <text x="445" y="145" fill="#dc3545" font-size="14" font-weight="bold">NO</text>
-  
-  <!-- YES 答案 -->
-  <rect x="40" y="220" width="120" height="60" rx="5" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
-  <text x="100" y="245" text-anchor="middle" fill="white" font-size="14" font-weight="bold">磁力泵</text>
-  <text x="100" y="265" text-anchor="middle" fill="white" font-size="11">PTCXPUMP/INNOMAG</text>
-  
-  <!-- 问题 2 -->
-  <rect x="440" y="220" width="120" height="60" rx="5" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-  <text x="500" y="245" text-anchor="middle" fill="#212529" font-size="13">需精确定量？</text>
-  <text x="500" y="265" text-anchor="middle" fill="#666" font-size="11">Question 2</text>
-  
-  <!-- NO 分支到问题 4 -->
-  <path d="M 500 280 L 500 340" stroke="#495057" stroke-width="2" fill="none"/>
-  <text x="510" y="320" fill="#495057" font-size="14" font-weight="bold">NO</text>
-  
-  <!-- 问题 4 -->
-  <rect x="440" y="340" width="120" height="60" rx="5" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-  <text x="500" y="365" text-anchor="middle" fill="#212529" font-size="13">含颗粒？</text>
-  <text x="500" y="385" text-anchor="middle" fill="#666" font-size="11">Question 4</text>
-  
-  <!-- YES 到问题 2 -->
-  <path d="M 560 250 L 600 250" stroke="#495057" stroke-width="2" fill="none"/>
-  
-  <!-- YES 答案 计量泵 -->
-  <rect x="600" y="220" width="120" height="60" rx="5" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
-  <text x="660" y="245" text-anchor="middle" fill="white" font-size="14" font-weight="bold">计量泵</text>
-  <text x="660" y="265" text-anchor="middle" fill="white" font-size="11">精确定量</text>
-  
-  <!-- 含颗粒 YES -->
-  <path d="M 440 370 L 360 370" stroke="#28a745" stroke-width="2" fill="none"/>
-  <text x="390" y="365" fill="#28a745" font-size="14" font-weight="bold">YES</text>
-  
-  <!-- 含颗粒 NO -->
-  <path d="M 500 400 L 500 460" stroke="#dc3545" stroke-width="2" fill="none"/>
-  <text x="510" y="440" fill="#dc3545" font-size="14" font-weight="bold">NO</text>
-  
-  <!-- 隔膜泵 -->
-  <rect x="280" y="340" width="120" height="60" rx="5" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
-  <text x="340" y="365" text-anchor="middle" fill="white" font-size="14" font-weight="bold">隔膜泵</text>
-  <text x="340" y="385" text-anchor="middle" fill="white" font-size="11">含颗粒</text>
-  
-  <!-- 离心泵 -->
-  <rect x="440" y="460" width="120" height="60" rx="5" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
-  <text x="500" y="485" text-anchor="middle" fill="white" font-size="14" font-weight="bold">离心泵</text>
-  <text x="500" y="505" text-anchor="middle" fill="white" font-size="11">清水大流量</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Microsoft YaHei, sans-serif">
+  <rect width="800" height="500" fill="#fafbfc"/>
   
   <!-- 标题 -->
-  <text x="300" y="20" text-anchor="middle" fill="#495057" font-size="20" font-weight="bold">泵浦选型决策流程</text>
+  <text x="400" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">泵浦选型决策树</text>
+  <text x="400" y="55" text-anchor="middle" font-size="13" fill="#6b7280">从介质特性出发，逐步确定适合的泵浦类型</text>
   
-  <!-- 底部说明 -->
-  <text x="300" y="560" text-anchor="middle" fill="#666" font-size="13">4 步选型法：①明确介质 ②确定流量扬程 ③校验 NPSH ④选定系列</text>
-  <text x="300" y="585" text-anchor="middle" fill="#666" font-size="13">资料来源：苏州弓海贸易 | https://www.szkhai.com.cn</text>
-  <text x="300" y="610" text-anchor="middle" fill="#999" font-size="11">苏州弓海贸易有限公司 · 技术选型指南</text>
+  <!-- 开始 -->
+  <rect x="340" y="80" width="120" height="40" rx="5" fill="#3b82f6"/>
+  <text x="400" y="105" text-anchor="middle" font-size="16" fill="white" font-weight="bold">开始</text>
+  
+  <!-- 箭头 -->
+  <line x1="400" y1="120" x2="400" y2="150" stroke="#9ca3af" stroke-width="2"/>
+  <polygon points="395,150 405,150 400,160" fill="#9ca3af"/>
+  
+  <!-- 问题 1 -->
+  <rect x="270" y="160" width="260" height="50" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="400" y="190" text-anchor="middle" font-size="14" fill="#92400e">介质有毒/易燃/强腐蚀?</text>
+  
+  <!-- 答案分支 -->
+  <line x1="330" y1="210" x2="200" y2="240" stroke="#9ca3af" stroke-width="2"/>
+  <text x="260" y="225" font-size="13" fill="#10b981" font-weight="bold">YES</text>
+  <polygon points="195,240 205,240 200,250" fill="#9ca3af"/>
+  
+  <line x1="470" y1="210" x2="600" y2="240" stroke="#9ca3af" stroke-width="2"/>
+  <text x="530" y="225" font-size="13" fill="#ef4444" font-weight="bold">NO</text>
+  <polygon points="595,240 605,240 600,250" fill="#9ca3af"/>
+  
+  <!-- 磁力泵 -->
+  <rect x="80" y="240" width="180" height="60" rx="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <text x="170" y="265" text-anchor="middle" font-size="16" fill="#1d4ed8" font-weight="bold">磁力泵</text>
+  <text x="170" y="285" text-anchor="middle" font-size="11" fill="#6b7280">强腐蚀/易燃易爆</text>
+  
+  <!-- 问题 2 -->
+  <rect x="450" y="240" width="260" height="50" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="580" y="270" text-anchor="middle" font-size="13" fill="#92400e">需要精确定量添加?</text>
+  
+  <!-- 计量泵 -->
+  <rect x="470" y="330" width="180" height="60" rx="5" fill="#fed7aa" stroke="#f59e0b" stroke-width="2"/>
+  <text x="560" y="355" text-anchor="middle" font-size="16" fill="#b45309" font-weight="bold">计量泵</text>
+  <text x="560" y="375" text-anchor="middle" font-size="11" fill="#6b7280">精确投加</text>
+  
+  <!-- 问题 3 -->
+  <rect x="450" y="330" width="260" height="50" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="580" y="360" text-anchor="middle" font-size="13" fill="#92400e">含固体/高粘度?</text>
+  
+  <line x1="540" y1="290" x2="510" y2="330" stroke="#9ca3af" stroke-width="2"/>
+  <polygon points="500,330 510,330 505,340" fill="#9ca3af"/>
+  
+  <line x1="620" y1="290" x2="670" y2="330" stroke="#9ca3af" stroke-width="2"/>
+  <polygon points="665,330 675,330 670,340" fill="#9ca3af"/>
+  
+  <!-- 隔膜泵 -->
+  <rect x="420" y="430" width="180" height="60" rx="5" fill="#fef3c7" stroke="#fbbf24" stroke-width="2"/>
+  <text x="510" y="455" text-anchor="middle" font-size="16" fill="#92400e" font-weight="bold">隔膜泵</text>
+  <text x="510" y="475" text-anchor="middle" font-size="11" fill="#6b7280">含颗粒/高粘度</text>
+  
+  <!-- 离心泵 -->
+  <rect x="620" y="430" width="180" height="60" rx="5" fill="#ecfdf5" stroke="#10b981" stroke-width="2"/>
+  <text x="710" y="455" text-anchor="middle" font-size="16" fill="#047857" font-weight="bold">离心泵</text>
+  <text x="710" y="475" text-anchor="middle" font-size="11" fill="#6b7280">清水/循环水</text>
+  
+  <!-- 底部 -->
+  <text x="400" y="490" text-anchor="middle" font-size="11" fill="#9ca3af">© 苏州弓海贸易 | www.szkhai.com.cn</text>
 </svg>

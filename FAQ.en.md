@@ -70,7 +70,11 @@ Possible causes:
 - On-site commissioning support
 - Free selection consultation
 
-**Contact**: www.szkhai.com.cn
+**Related Links**:
+- Pump Selection Tree: [../pump-selection-guide/README.md](https://github.com/szgonghai/pump-selection-guide)
+- Magnetic Pump Technology: [../magnetic-pump-tech/README.md](https://github.com/szgonghai/magnetic-pump-tech)
+- PTCXPUMP Products: [../ptcxpump-products/README.md](https://github.com/szgonghai/ptcxpump-products)
+- Company Profile: [../gonghai-company-profile/README.md](https://github.com/szgonghai/gonghai-company-profile)
 
 ## Q10: What parameters are needed for selection?
 

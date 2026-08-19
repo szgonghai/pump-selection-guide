@@ -1,70 +1,142 @@
 {
   "selection_criteria": {
-    "by_medium": [
-      {
-        "type": "强酸强碱",
-        "recommended": ["magnetic_pump"],
-        "brands": ["PTCXPUMP", "INNOMAG"],
-        "alternative": ["lined_centrifugal_pump"]
-      },
-      {
-        "type": "易燃易爆",
-        "recommended": ["magnetic_pump", "diaphragm_pump"],
-        "alternative": []
-      },
-      {
-        "type": "高纯试剂",
-        "recommended": ["magnetic_pump"],
-        "subseries": "内衬系列",
-        "alternative": []
-      },
-      {
-        "type": "清水/循环水",
-        "recommended": ["centrifugal_pump"],
-        "alternative": []
-      },
-      {
-        "type": "含颗粒浆料",
-        "recommended": ["centrifugal_pump_open_impeller", "diaphragm_pump"],
-        "alternative": []
-      },
-      {
-        "type": "黏度高",
-        "recommended": ["screw_pump", "gear_pump"],
-        "alternative": []
-      }
-    ],
-    "by_temperature": [
-      {"range": "-80°C ~ +280°C", "recommended": "PTCXPUMP PS 金属不锈钢"},
-      {"range": "-40°C ~ +180°C", "recommended": "INNOMAG 内衬系列"},
-      {"range": "常温 ~ 100°C", "recommended": "离心泵"},
-      {"range": "200°C+", "recommended": "高温磁力泵"}
-    ],
-    "by_pressure": [
-      {"level": "低压 (<10 bar)", "recommended": ["离心泵", "PTCXPUMP PL"]},
-      {"level": "中压 (10-25 bar)", "recommended": ["PTCXPUMP PS"]},
-      {"level": "高压 (>25 bar)", "recommended": ["多级离心泵"]}
-    ],
-    "by_industry": [
-      {"industry": "化工", "main": "磁力泵（不锈钢/工程塑料）"},
-      {"industry": "半导体", "main": "磁力泵（内衬/高纯度系列）"},
-      {"industry": "PCB", "main": "磁力泵（耐强酸强碱）"},
-      {"industry": "制药", "main": "磁力泵（卫生级）"},
-      {"industry": "食品", "main": "卫生级离心泵、磁力泵"},
-      {"industry": "环保/废水", "main": "离心泵、隔膜泵"},
-      {"industry": "石油石化", "main": "离心泵、磁力泵（高温高压）"}
-    ]
+    "magnetic_pump": {
+      "media_types": [
+        "strong_acid",
+        "strong_base",
+        "flammable",
+        "high_purity"
+      ],
+      "advantages": [
+        "static seal",
+        "no leakage",
+        "good for dangerous media"
+      ],
+      "disadvantages": [
+        "not for solids",
+        "lower efficiency than centrifugal"
+      ],
+      "main_products": [
+        {
+          "brand": "PTCXPUMP",
+          "series": "PS",
+          "material": "316L stainless"
+        },
+        {
+          "brand": "PTCXPUMP",
+          "series": "PL",
+          "material": "316L stainless"
+        },
+        {
+          "brand": "INNOMAG",
+          "series": "U-MAG",
+          "material": "ETFE lined"
+        },
+        {
+          "brand": "INNOMAG",
+          "series": "TB-MAG",
+          "material": "ETFE/PFA lined"
+        }
+      ]
+    },
+    "centrifugal_pump": {
+      "media_types": [
+        "clean_water",
+        "low_viscosity",
+        "circulation"
+      ],
+      "advantages": [
+        "high efficiency",
+        "versatile",
+        "simple design"
+      ],
+      "disadvantages": [
+        "mechanical seal leakage",
+        "not for high viscosity"
+      ],
+      "main_products": [
+        {
+          "brand": "PTCXPUMP",
+          "series": "Standard",
+          "flow_range": "5-500 m³/h"
+        }
+      ]
+    },
+    "diaphragm_pump": {
+      "media_types": [
+        "solids",
+        "high_viscosity",
+        "abrasive",
+        "slurry"
+      ],
+      "advantages": [
+        "dry-run capable",
+        "good throughput",
+        "good for hazardous"
+      ],
+      "disadvantages": [
+        "pulsating flow",
+        "lower efficiency"
+      ],
+      "main_products": [
+        {
+          "brand": "ARO",
+          "series": "Pro Series",
+          "type": "pneumatic"
+        },
+        {
+          "brand": "ARO",
+          "series": "EXP Series",
+          "type": "pneumatic"
+        }
+      ]
+    },
+    "metering_pump": {
+      "media_types": [
+        "precise_chemical",
+        "flocculant",
+        "disinfectant"
+      ],
+      "advantages": [
+        "high accuracy",
+        "adjustable flow"
+      ],
+      "disadvantages": [
+        "limited flow rate"
+      ],
+      "main_products": [
+        {
+          "brand": "SHUN-YI",
+          "series": "Standard",
+          "accuracy": "±1%"
+        },
+        {
+          "brand": "SHUN-YI",
+          "series": "Precision",
+          "accuracy": "±0.5%"
+        }
+      ]
+    }
   },
-  "decision_rules": [
-    "如果介质有毒/易燃/强腐蚀 → 必选磁力泵",
-    "如果需要精确定量添加 → 必选计量泵",
-    "如果含颗粒 → 离心泵开式叶轮 或 隔膜泵",
-    "其他一般工况 → 离心泵"
-  ],
-  "four_step_process": [
-    "1. 明确介质特性（腐蚀性、温度、粘度、毒性、颗粒）",
-    "2. 确定流量扬程（实际流量 = 峰值 × 1.1~1.2，扬程包含管路阻力+高差）",
-    "3. 校验 NPSH（NPSHa > NPSHr + 0.5m）",
-    "4. 选定系列 + 材质"
-  ]
+  "decision_factors": {
+    "primary": [
+      "media_type",
+      "flow_rate",
+      "head",
+      "temperature"
+    ],
+    "secondary": [
+      "material",
+      "cleanliness",
+      "explosion_proof",
+      "interface"
+    ],
+    "weight": {
+      "media_type": 0.35,
+      "flow_rate": 0.2,
+      "head": 0.2,
+      "temperature": 0.15,
+      "material": 0.1
+    }
+  }
 }

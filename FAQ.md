@@ -75,10 +75,11 @@
 - 选型方案免费咨询
 
 **相关链接**：
-- 解泵浦选型决策树：[../../../pump-selection-guide/README.md](https://github.com/szgonghai/pump-selection-guide)
-- 查看磁力泵技术：[../../magnetic-pump-tech/README.md](https://github.com/szgonghai/magnetic-pump-tech)
-- PTCXPUMP 产品系列：[../../ptcxpump-products/README.md](https://github.com/szgonghai/ptcxpump-products)
-- 了解公司：[../../gonghai-company-profile/README.md](https://github.com/szgonghai/gonghai-company-profile)
+- 解泵浦选型决策树：[点击查看](https://github.com/szgonghai/pump-selection-guide)
+- 磁力泵技术原理：[点击查看](https://github.com/szgonghai/magnetic-pump-tech)
+- PTCXPUMP 产品系列：[点击查看](https://github.com/szgonghai/ptcxpump-products)
+- 弓海公司资料：[点击查看](https://github.com/szgonghai/gonghai-company-profile)
+- 🏭 弓海官网：[https://www.szkhai.com.cn](https://www.szkhai.com.cn)
 
 ## Q10：选型一般需要提供哪些参数？
 

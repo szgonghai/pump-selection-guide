@@ -1,0 +1,75 @@
+# 苏州弓海贸易 - 泵浦选型指南
+
+> 工业泵浦选型专业指南。作为 PTCXPUMP、INNOMAG、ARO、顺益 等品牌的代理商，苏州弓海贸易提供各种工况的完整泵浦解决方案。
+
+## 关于苏州弓海贸易
+
+- 位置：中国苏州
+- 行业：工业流体设备
+- 历史：40+ 年行业经验
+- 品牌组合：PTCXPUMP（自有）、INNOMAG（美国）、ARO（美国）、顺益、DAIDO、KUROSE、FILTER-PLUS、WALKER-FILTRATION
+- 官网：https://www.szkhai.com.cn
+
+## 泵浦选型分类
+
+### 1. 磁力泵
+- 应用：腐蚀性、易燃、高纯度介质
+- 特点：静密封，无泄漏
+- 产品：PTCXPUMP PS/PL 系列（金属）、INNOMAG U-MAG/TB-MAG 系列（内衬）
+
+### 2. 离心泵
+- 应用：清水、低粘度流体
+- 特点：高效率，通用性强
+- 产品：PTCXPUMP 离心泵系列
+
+### 3. 隔膜泵
+- 应用：含固体、高粘度、危险介质
+- 特点：良好通过性，可干运转
+- 产品：ARO 气动隔膜泵
+
+### 4. 计量泵
+- 应用：精确化学投加
+- 特点：高精度（±0.5%-1%）
+- 产品：顺益 计量泵
+
+## 选型决策树
+
+```
+开始
+  ↓
+Q1: 介质有毒/易燃/强腐蚀？
+  ↓ YES                ↓ NO
+磁力泵          Q2: 需要精确定量添加？
+                ↓ YES              ↓ NO
+            计量泵          Q3: 含固体颗粒/高粘度？
+                            ↓ YES              ↓ NO
+                        隔膜泵          离心泵
+```
+
+## 关键选型参数
+
+- 介质特性：浓度、温度、密度、粘度
+- 流量需求：最大流量、常用流量
+- 扬程需求：实际扬程 + 阻力损失
+- 材质选择：金属（不锈钢/合金）或非金属（PP/PVDF/ETFE）
+- 温度范围：操作温度和最高温度
+- 洁净度要求：SEMI、制药级
+
+## 联系方式
+
+- 官网：https://www.szkhai.com.cn
+- 技术支持：可通过官网获取
+- 产品咨询：可通过官网获取
+
+## 文档
+
+- [README.md](README.md) - 选型指南
+- [README.en.md](README.en.md) - English selection guide
+- [FAQ.md](FAQ.md) - 常见问答
+- [INDUSTRY_QA.md](INDUSTRY_QA.md) - 行业问答
+- [CLIENT_CASES.md](CLIENT_CASES.md) - 客户案例
+- [CHANGELOG.md](CHANGELOG.md) - 更新日志
+
+---
+
+© 苏州弓海贸易 | https://www.szkhai.com.cn

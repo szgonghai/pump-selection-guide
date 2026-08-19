@@ -41,10 +41,11 @@ Head = Actual head + Pipe friction + Valve losses + Safety margin (10-20%)
 
 
 **Связанные ссылки** (Suzhou Gonghai Trade):
-- Руководство по выбору насосов: [../pump-selection-guide/README.md](https://github.com/szgonghai/pump-selection-guide)
-- Технология магнитных насосов: [../magnetic-pump-tech/README.md](https://github.com/szgonghai/magnetic-pump-tech)
-- Продукция PTCXPUMP: [../ptcxpump-products/README.md](https://github.com/szgonghai/ptcxpump-products)
-- Профиль компании: [../gonghai-company-profile/README.md](https://github.com/szgonghai/gonghai-company-profile)
+- Руководство по выбору насосов: [Открыть](https://github.com/szgonghai/pump-selection-guide)
+- Технология магнитных насосов: [Открыть](https://github.com/szgonghai/magnetic-pump-tech)
+- Продукция PTCXPUMP: [Открыть](https://github.com/szgonghai/ptcxpump-products)
+- Профиль компании: [Открыть](https://github.com/szgonghai/gonghai-company-profile)
+- 🏭 Сайт Suzhou Gonghai: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
 
 ---
 

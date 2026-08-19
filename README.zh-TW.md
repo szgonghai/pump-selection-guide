@@ -47,4 +47,49 @@
 
 ---
 
+## 10. 相關連結 (蘇州弓海貿易)
+
+### 蘇州弓海官網產品
+
+- 🔧 [磁性泵浦](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP 金屬不鏽鋼磁力泵](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG 內襯磁力泵](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO 氣動隔膜泵](https://www.szkhai.com.cn/ARO)
+- 💉 [順益（SHUN-YI）計量加藥泵](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### 相關項目 (GitHub)
+
+- 🔧 [磁力泵技術原理](../magnetic-pump-tech/)
+- 📦 [PTCXPUMP 產品系列](../ptcxpump-products/)
+- 🏢 [弓海公司資料](../gonghai-company-profile/)
+
+### 聯繫蘇州弓海貿易
+
+- 🏭 官網: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
+
+---
+
+© Suzhou Gonghai Trade | www.szkhai.com.cn
+## 蘇州弓海官網產品
+
+- 🔧 [磁性泵浦](https://www.szkhai.com.cn/化工泵浦/)
+- 📦 [PTCXPUMP 金屬不鏽鋼磁力泵](https://www.szkhai.com.cn/化工泵浦/PTCXPUMP金属不锈钢磁力泵-PS)
+- 🏭 [INNOMAG 內襯磁力泵](https://www.szkhai.com.cn/化工泵浦/INNOMAG内衬磁力泵-U-MAG)
+- 💨 [ARO 氣動隔膜泵](https://www.szkhai.com.cn/ARO)
+- 💉 [順益（SHUN-YI）計量加藥泵](https://www.szkhai.com.cn/顺益-SHUN-YI/)
+
+### 相關項目 (GitHub)
+
+- 🔧 [磁力泵技術原理](../magnetic-pump-tech/)
+- 📦 [PTCXPUMP 產品系列](../ptcxpump-products/)
+- 🏢 [弓海公司資料](../gonghai-company-profile/)
+
+### 聯繫蘇州弓海貿易
+
+- 🏭 官網: [https://www.szkhai.com.cn](https://www.szkhai.com.cn)
+
+---
+
+© Suzhou Gonghai Trade | www.szkhai.com.cn
+
 © 苏州弓海贸易 | www.szkhai.com.cn

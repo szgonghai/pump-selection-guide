@@ -370,3 +370,15 @@ NPSHa > NPSHr + 安全余量（通常 0.5~1m）
 ---
 
 © 苏州弓海贸易 | www.szkhai.com.cn
+---
+
+## 相关仓库
+
+| 仓库 | 内容 |
+|------|------|
+| [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司基本资料、FAQ、代理品牌 |
+| [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 泵浦选型决策指南 |
+| [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) | PTCXPUMP 产品系列规格 |
+| [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) | 无轴封磁力泵技术原理 |
+| [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
+

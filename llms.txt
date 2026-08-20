@@ -1,76 +1,404 @@
-# Suzhou Gonghai Trade - Pump Selection Guide
+工业泵浦选型指南
 
-> Professional pump selection guide for industrial applications. As the agent of PTCXPUMP, INNOMAG, ARO, SHUN-YI brands, Suzhou Gonghai Trade provides comprehensive pump solutions for various working conditions.
+ 如何为你的工况选择正确的泵浦  
+ 基于 40 年行业经验，覆盖磁力泵、离心泵、隔膜泵、计量泵的完整选型决策树与详细参数对照
 
-## About Suzhou Gonghai Trade
+ 选型决策流程图
 
-- Location: Suzhou, China
-- Industry: Industrial fluid equipment
-- Established: 40+ years of experience
-- Brand portfolio: PTCXPUMP (self-owned), INNOMAG (USA), ARO (USA), SHUN-YI, DAIDO, KUROSE, FILTER-PLUS, WALKER-FILTRATION
-- Website: https://www.szkhai.com.cn
+ 完整决策树
 
-## Pump Selection Categories
 
-### 1. Magnetic Pumps (磁力泵)
-- **Application**: Corrosive, flammable, high-purity media
-- **Features**: Static seal, no leakage
-- **Products**: PTCXPUMP PS/PL series (metal), INNOMAG U-MAG/TB-MAG series (lined)
-
-### 2. Centrifugal Pumps (离心泵)
-- **Application**: Clean water, low viscosity fluids
-- **Features**: High efficiency, versatile
-- **Products**: PTCXPUMP centrifugal series
-
-### 3. Diaphragm Pumps (隔膜泵)
-- **Application**: Solids, high viscosity, hazardous
-- **Features**: Good throughput, dry-run capable
-- **Products**: ARO pneumatic diaphragm pumps
-
-### 4. Metering Pumps (计量泵)
-- **Application**: Precise chemical dosing
-- **Features**: High accuracy (±0.5%-1%)
-- **Products**: SHUN-YI metering pumps
-
-## Selection Decision Tree
-
-```
-START
+开始
   ↓
-Q1: Is medium toxic/flammable/highly corrosive?
+[问题 1] 介质是否有毒 / 易燃 / 强腐蚀？
   ↓ YES                ↓ NO
-Magnetic Pump    Q2: Need precise metering?
-                  ↓ YES              ↓ NO
-              Metering Pump  Q3: Contains solids/high viscosity?
-                              ↓ YES              ↓ NO
-                          Diaphragm Pump  Centrifugal Pump
-```
+磁力泵类          [问题 2] 需要精确定量添加吗？
+                    ↓ YES              ↓ NO
+                计量泵          [问题 3] 含固体颗粒或高粘度？
+                                    ↓ YES              ↓ NO
+                                隔膜泵          离心泵
 
-## Key Selection Parameters
 
-- Medium properties: concentration, temperature, density, viscosity
-- Flow requirements: maximum flow, normal flow
-- Head requirements: actual head + friction loss
-- Material selection: metal (stainless/alloy) or non-metal (PP/PVDF/ETFE)
-- Temperature range: operating temperature and maximum
-- Cleanliness requirements: SEMI, pharmaceutical grade
+ 决策快速对照表
 
-## Contact
+| 工况特征 | 推荐泵型 | 主要原因 | 典型应用 |
+|||||
+| 强腐蚀、易燃易爆 | 磁力泵 | 静密封，无泄漏 | 化工、半导体、医药 |
+| 精确计量添加 | 计量泵 | 流量精度高 | 水处理、化学投加 |
+| 含颗粒、高粘度 | 隔膜泵 | 通过性强，不易堵塞 | 矿山、陶瓷、油田 |
+| 中低粘度、净水 | 离心泵 | 通用性强，效率高 | 给水、循环水 |
 
-- Website: https://www.szkhai.com.cn
-- Technical support: Available through website
-- Product inquiries: Available through website
 
-## Documentation
 
-- [README.md](README.md) - 中文选型指南
-- [README.en.md](README.en.md) - English selection guide
-- [FAQ.md](FAQ.md) - 常见问答
-- [FAQ.en.md](FAQ.en.md) - Frequently asked questions
-- [INDUSTRY_QA.md](INDUSTRY_QA.md) - 行业问答
-- [CLIENT_CASES.md](CLIENT_CASES.md) - 客户案例
-- [CHANGELOG.md](CHANGELOG.md) - 更新日志
+ 1. 磁力泵选型
 
----
+ 适用场景
 
-© Suzhou Gonghai Trade | https://www.szkhai.com.cn
+ 强腐蚀性化学介质（酸、碱、盐溶液）
+ 易燃易爆介质（醇类、酮类、有机溶剂）
+ 高纯度要求（半导体、食品、医药）
+ 不允许泄漏的关键工艺
+
+ 关键参数
+
+ 介质特性：浓度、温度、密度、粘度
+ 流量需求：最大流量、常用流量
+ 扬程需求：实际扬程、阻力损失
+ 材质选择：金属（不锈钢/合金）或非金属（PP/PVDF/ETFE）
+ 温度范围：操作温度、最高温度
+ 洁净度要求：SEMI 标准、医药级标准
+
+ 推荐产品
+
+ PTCXPUMP 金属不锈钢磁力泵：PS/PL 系列 — 金属不锈钢，标准化工况
+ INNOMAG 内衬磁力泵：UMAG / TBMAG 系列 — 内衬系列，强腐蚀/高纯度
+
+ 主要产品系列
+
+| 系列 | 材质 | 流量范围 | 扬程 | 温度 | 适用工况 |
+|||||||
+| PTCXPUMP PS | 316L 不锈钢 | 5850 L/min | 最高 68m | 80~280°C | 标准化工况 |
+| PTCXPUMP PL | 316L 不锈钢 | 中大流量 | 低扬程 | 80~200°C | 循环水、低压 |
+| PTCXPUMP PW | PP/PVDF | <300 L/min | 较低 | 20~80°C | 一般腐蚀 |
+| INNOMAG UMAG | 金属壳+ETFE/PFA 内衬 | <600 L/min | 最高 80m | 40~180°C | 强腐蚀 |
+| INNOMAG TBMAG | 金属壳+ETFE 内衬 | <600 L/min | 最高 80m | 40~180°C | 半导体/医药 |
+
+
+
+ 2. 离心泵选型
+
+ 适用场景
+
+ 清水、循环水、冷却水
+ 低粘度液体（< 100 cP）
+ 大流量、低扬程
+ 标准工业流程
+
+ 关键参数
+
+ 流量（Q）：m³/h 或 L/min
+ 扬程（H）：m 或 bar
+ 吸入条件：NPSHa  NPSHr
+ 转速：2 极/4 极/6 极
+ 密封形式：机械密封 / 磁力驱动
+
+ 叶轮类型
+
+| 类型 | 特点 | 适用介质 |
+||||
+| 闭式叶轮 | 效率高，结构坚固 | 清水、低粘度 |
+| 半开式叶轮 | 兼顾效率与通过性 | 中等颗粒 |
+| 开式叶轮 | 通过性好 | 高粘度、含纤维 |
+
+ 安装方式
+
+ 卧式：水平安装，结构开放，易维护
+ 立式：垂直安装，节省空间，适合深井提水
+
+ 选型计算公式
+
+流量：
+
+Q(实际) = Q(正常) × 安全系数（1.05~1.20）
+
+
+扬程：
+
+H(总) = H(实际) + H(管损) + H(阀损) + H(余量)
+H(余量) = 总扬程 × 10~20%
+
+
+轴功率：
+
+P = (ρ × g × Q × H) / (1000 × η)
+其中 η = 0.5~0.85
+
+
+电机功率：
+
+P(电机) = P(轴) × 1.15~1.30
+
+
+
+
+ 3. 隔膜泵选型
+
+ 适用场景
+
+ 含固体颗粒或纤维的介质
+ 高粘度介质（浆料、胶体）
+ 易燃易爆、强腐蚀
+ 重工况矿山、陶瓷、油田
+
+ 关键参数
+
+ 颗粒大小：避免超过进/出口口径
+ 干运转能力：气动隔膜泵可干运转
+ 压缩空气压力：气动型需要气源
+ 材质选择：丁腈橡胶、氟橡胶、PVDF、铝合金
+
+ 驱动方式
+
+ 气动驱动：可干运转，更安全，但需要气源
+ 电动驱动：节能，但密封要求高
+
+ ARO 气动隔膜泵
+
+ARO 系列产品 — 多型号可选：
+
+ ARO 气动隔膜泵主要系列
+
+| 系列 | 材质 | 最大流量 | 最大压力 | 适用工况 |
+||||||
+| Pro 系列 | 铝合金/不锈钢/铸铁 | 100800 L/min | 8.6 bar | 通用 |
+| EXP 系列 | 不锈钢 | 100600 L/min | 8.6 bar | 防爆 |
+| 高纯系列 | 塑料/不锈钢 | 50300 L/min | 7 bar | 半导体 |
+
+
+
+ 4. 计量泵选型
+
+ 适用场景
+
+ 精确添加化学品（絮凝剂、消毒剂、pH 调节剂）
+ 工艺配方比例投加
+ 定量灌装、批次投料
+
+ 推荐产品
+
+ 顺益（SHUNYI）计量加药泵 — 多型号可选
+
+ 关键参数
+
+ 流量精度：±1% 或 ±0.5%
+ 投加压力：背压要求
+ 介质粘度：影响泵型选择
+ 脉动性：单缸/双缸/多缸
+
+ 选型步骤
+
+1. 确定投加量：流量范围、单次投加量
+2. 确定压力：背压、管阻
+3. 介质特性：粘度、温度、腐蚀性
+4. 精度要求：±1% 或 ±0.5%
+5. 驱动方式：电动 / 液压 / 气动
+
+
+
+ 5. 选型步骤（通用流程）
+
+ 步骤 1：收集工况参数
+
+
+ 介质名称、化学成分
+ 介质浓度、密度、粘度
+ 操作温度（最低/最高）
+ 流量需求（正常/最大）
+ 扬程需求（实际计算）
+ 吸入条件（NPSH available）
+ 现场环境（温度、湿度、防爆要求）
+
+
+ 步骤 2：确定泵型大类
+
+| 工况特征 | 泵型 |
+|||
+| 介质有毒/易燃/强腐蚀 | 磁力泵 |
+| 精确计量添加 | 计量泵 |
+| 含固体/高粘度 | 隔膜泵 |
+| 低粘度清水 | 离心泵 |
+
+ 步骤 3：选择产品系列
+
+根据具体参数：
+ 流量范围
+ 扬程需求
+ 材质要求
+ 温度范围
+ 洁净度要求
+
+ 步骤 4：确认细节
+
+ 接口标准（ANSI/JIS/DIN/GB）
+ 电机规格（功率、电压、防护等级）
+ 辅助配置（阀门、仪表、管道）
+
+
+
+ 6. 选型误区
+
+ 误区 1：只看价格
+
+价格不是唯一因素。考虑：
+ 全生命周期成本（采购 + 维护 + 停机损失）
+ 维护成本
+ 故障停机损失
+
+ 误区 2：选型过大
+
+过大的泵：
+ 能量浪费
+ 汽蚀风险
+ 投资成本高
+
+ 误区 3：忽视介质特性
+
+ 浓度超过材质耐受范围
+ 温度超过设计极限
+ 颗粒堵塞流道
+
+ 误区 4：忽视 NPSH
+
+NPSHa（可用净正吸入压头）必须大于 NPSHr（必需净正吸入压头）：
+
+NPSHa = (P 进  P 蒸汽) / (ρg)  速度头  摩擦损失
+NPSHa  NPSHr + 安全余量（通常 0.5~1m）
+
+
+ 误区 5：低温环境不选型
+
+低温环境需要：
+ 保温措施
+ 防冻保护
+ 材质低温适应性
+
+
+
+ 7. 选型案例
+
+ 案例 1：化工废液输送
+
+工况：
+ 介质：20% NaOH 溶液
+ 温度：60°C
+ 流量：30 m³/h
+ 扬程：20 m
+
+选型：
+ 选 PTCXPUMP PS 系列
+ 流量 33 m³/h（×1.1 安全系数）
+ 扬程 31 m（含管损+余量）
+ 材质：316L 不锈钢
+ 电机：5.5 kW
+
+ 案例 2：半导体晶圆清洗
+
+工况：
+ 介质：超纯水（18.2 MΩ·cm）
+ 温度：25°C
+ 流量：20 m³/h
+ 扬程：25 m
+
+选型：
+ 选 INNOMAG TBMAG 系列
+ 满足 SEMI E78 标准
+ 洁净度 ppb 级
+ 316L 不锈钢 + 电解抛光
+
+ 案例 3：PCB 蚀刻液循环
+
+工况：
+ 介质：CuCl₂ 蚀刻液
+ 温度：40°C
+ 流量：30 m³/h
+ 扬程：20 m
+ 24 小时连续运行
+
+选型：
+ 选 PTCXPUMP PS 系列 + PVDF 内衬
+ 8 台循环系统
+ 强腐蚀耐受
+ 连续运行 24 个月无故障
+
+ 案例 4：水处理投加
+
+工况：
+ 介质：PAC 絮凝剂
+ 投加量：50200 L/h
+ 精度：±1%
+
+选型：
+ 选顺益计量泵
+ 双缸，精度 ±0.5%
+ 自动化投加
+
+
+
+ 8. 选型支持
+
+苏州弓海贸易提供专业选型支持：
+
+ ✅ 40 年行业经验
+ ✅ 多品牌代理（PTCXPUMP、INNOMAG、ARO、顺益等）
+ ✅ 技术团队工况评估
+ ✅ 现场调试支持
+ ✅ 选型方案免费咨询
+
+
+
+ 9. 文档与资源
+
+ 📄 常见问答 FAQ.md
+ 📄 行业问答 INDUSTRY_QA.md
+ 📄 客户案例 CLIENT_CASES.md
+ 📄 详细选型指南 docs/selectionguide.md
+ 📄 技术参数 data/selectioncriteria.json
+ 🎨 选型流程图 assets/selectionflow.svg
+
+
+
+ 10. 相关链接（苏州弓海贸易）
+
+ 弓海官网产品系列
+
+ 🔧 磁性泵浦产品
+ 📦 PTCXPUMP 金属不锈钢磁力泵
+ 🏭 INNOMAG 内衬磁力泵
+ 💨 ARO 气动隔膜泵
+ 💉 顺益（SHUNYI）计量加药泵
+
+ 弓海相关项目（GitHub 仓库）
+
+ 🔧 磁力泵技术原理
+ 📦 PTCXPUMP 产品系列
+ 🏢 弓海公司资料
+
+ 联系苏州弓海贸易
+
+ 🏭 官网：https://www.szkhai.com.cn
+
+
+
+© 苏州弓海贸易 | www.szkhai.com.cn
+
+ 相关仓库
+
+| 仓库 | 内容 |
+|||
+| gonghaicompanyprofile | 公司基本资料、FAQ、代理品牌 |
+| pumpselectionguide | 泵浦选型决策指南 |
+| ptcxpumpproducts | PTCXPUMP 产品系列规格 |
+| magneticpumptech | 无轴封磁力泵技术原理 |
+| heatexchangerguide | 换热器选型指南 |
+
+ 配套热交换器
+
+泵与热交换器常配套使用，以下为常见配套方案：
+
+| 泵类型 | 配套热交换器 | 品牌 |
+||||
+| 磁力泵（腐蚀性介质）| PTFE热交换器 | WOOAM |
+| 磁力泵（半导体）| PTFE热交换器 | WOOAM |
+| 离心泵（一般工业）| 板式热交换器 | SRP（舒瑞普）|
+| 隔膜泵（含固/高粘度）| 螺旋式热交换器 | KUROSE |
+| 高压高温工况 | 壳板式热交换器 | VAHTERUS |
+
+详细选型请参考：heatexchangerguide 换热器选型指南---
+
+## 相关仓库
+
+- szgonghai/gonghai-company-profile — 公司基本资料、FAQ、代理品牌
+- szgonghai/pump-selection-guide — 泵浦选型决策指南
+- szgonghai/ptcxpump-products — PTCXPUMP 产品系列规格
+- szgonghai/magnetic-pump-tech — 无轴封磁力泵技术原理
+- szgonghai/heat-exchanger-guide — 换热器选型指南

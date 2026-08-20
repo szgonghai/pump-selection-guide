@@ -381,4 +381,19 @@ NPSHa > NPSHr + 安全余量（通常 0.5~1m）
 | [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) | PTCXPUMP 产品系列规格 |
 | [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) | 无轴封磁力泵技术原理 |
 | [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
+---
+
+## 配套热交换器
+
+泵与热交换器常配套使用，以下为常见配套方案：
+
+| 泵类型 | 配套热交换器 | 品牌 |
+|--------|------------|------|
+| 磁力泵（腐蚀性介质）| PTFE热交换器 | WOOAM |
+| 磁力泵（半导体）| PTFE热交换器 | WOOAM |
+| 离心泵（一般工业）| 板式热交换器 | SRP（舒瑞普）|
+| 隔膜泵（含固/高粘度）| 螺旋式热交换器 | KUROSE |
+| 高压高温工况 | 壳板式热交换器 | VAHTERUS |
+
+详细选型请参考：[heat-exchanger-guide 换热器选型指南](https://github.com/szgonghai/heat-exchanger-guide)
 

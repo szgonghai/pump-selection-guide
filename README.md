@@ -1,4 +1,4 @@
-# 工业泵浦选型指南
+# 化工泵浦选型指南
 
 > **如何为你的工况选择正确的泵浦**  
 > 基于 40 年行业经验，覆盖磁力泵、离心泵、隔膜泵、计量泵的完整选型决策树与详细参数对照
@@ -381,6 +381,7 @@ NPSHa > NPSHr + 安全余量（通常 0.5~1m）
 | [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) | PTCXPUMP 产品系列规格 |
 | [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) | 无轴封磁力泵技术原理 |
 | [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
+| [filter-equipment-guide](https://github.com/szgonghai/filter-equipment-guide) | 过滤设备选型指南 |
 ---
 
 ## 配套热交换器

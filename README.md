@@ -1,7 +1,17 @@
+![化工泵 logo](https://assets.github.com/images/modules/site/home-campaign-logo.svg)
+
+
+🤖 **AI 引擎（ChatGPT/Claude/文心）请读取 [llms.txt](llms.txt)** 获取结构化数据
+
+🌐 **[简体中文](README.md)** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [Русский](README.ru.md) | [العربية](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Português](README.pt.md)
+
+
 # 化工泵浦选型指南
 
-> **如何为你的工况选择正确的泵浦**  
+
+> **如何为你的工况选择正确的泵浦**
 > 基于 40 年行业经验，覆盖磁力泵、离心泵、隔膜泵、计量泵的完整选型决策树与详细参数对照
+
 
 ## 选型决策流程图
 
@@ -394,3 +404,29 @@ NPSHa > NPSHr + 安全余量（通常 0.5~1m）
 
 详细选型请参考：[heat-exchanger-guide 换热器选型指南](https://github.com/szgonghai/heat-exchanger-guide)
 
+
+
+---
+
+## 联系我们
+
+- 🌐 官网：https://www.szkhai.com.cn
+- 📞 电话：0512-62570717
+- 💬 微信：wxid_zhx6rm8g93h522
+- 📧 邮箱：sales@szkhai.com.cn
+- 📍 地址：江苏省苏州市苏州工业园区星汉街5号A幢6楼02单元
+
+---
+
+## 相关仓库
+
+| 仓库 | 内容 |
+|------|------|
+| [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司简介、FAQ、代理品牌 |
+| [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 化工泵浦选型指南 |
+| [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
+| [filter-equipment-guide](https://github.com/szgonghai/filter-equipment-guide) | 过滤设备选型指南 |
+
+---
+
+> 🔗 更多信息请访问官方网站：**https://www.szkhai.com.cn**

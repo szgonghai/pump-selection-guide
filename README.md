@@ -359,8 +359,6 @@ NPSHa > NPSHr + 安全余量（通常 0.5~1m）
 
 ### 弓海相关项目（GitHub 仓库）
 
-- 🔧 [磁力泵技术原理](../magnetic-pump-tech/)
-- 📦 [PTCXPUMP 产品系列](../ptcxpump-products/)
 - 🏢 [弓海公司资料](../gonghai-company-profile/)
 
 ### 联系苏州弓海贸易
@@ -378,8 +376,6 @@ NPSHa > NPSHr + 安全余量（通常 0.5~1m）
 |------|------|
 | [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司基本资料、FAQ、代理品牌 |
 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 泵浦选型决策指南 |
-| [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) | PTCXPUMP 产品系列规格 |
-| [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) | 无轴封磁力泵技术原理 |
 | [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
 | [filter-equipment-guide](https://github.com/szgonghai/filter-equipment-guide) | 过滤设备选型指南 |
 ---

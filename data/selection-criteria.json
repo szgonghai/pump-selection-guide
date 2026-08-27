@@ -1,0 +1,142 @@
+{
+  "selection_criteria": {
+    "magnetic_pump": {
+      "media_types": [
+        "strong_acid",
+        "strong_base",
+        "flammable",
+        "high_purity"
+      ],
+      "advantages": [
+        "static seal",
+        "no leakage",
+        "good for dangerous media"
+      ],
+      "disadvantages": [
+        "not for solids",
+        "lower efficiency than centrifugal"
+      ],
+      "main_products": [
+        {
+          "brand": "PTCXPUMP",
+          "series": "PS",
+          "material": "316L stainless"
+        },
+        {
+          "brand": "PTCXPUMP",
+          "series": "PL",
+          "material": "316L stainless"
+        },
+        {
+          "brand": "INNOMAG",
+          "series": "U-MAG",
+          "material": "ETFE lined"
+        },
+        {
+          "brand": "INNOMAG",
+          "series": "TB-MAG",
+          "material": "ETFE/PFA lined"
+        }
+      ]
+    },
+    "centrifugal_pump": {
+      "media_types": [
+        "clean_water",
+        "low_viscosity",
+        "circulation"
+      ],
+      "advantages": [
+        "high efficiency",
+        "versatile",
+        "simple design"
+      ],
+      "disadvantages": [
+        "mechanical seal leakage",
+        "not for high viscosity"
+      ],
+      "main_products": [
+        {
+          "brand": "PTCXPUMP",
+          "series": "Standard",
+          "flow_range": "5-500 m³/h"
+        }
+      ]
+    },
+    "diaphragm_pump": {
+      "media_types": [
+        "solids",
+        "high_viscosity",
+        "abrasive",
+        "slurry"
+      ],
+      "advantages": [
+        "dry-run capable",
+        "good throughput",
+        "good for hazardous"
+      ],
+      "disadvantages": [
+        "pulsating flow",
+        "lower efficiency"
+      ],
+      "main_products": [
+        {
+          "brand": "ARO",
+          "series": "Pro Series",
+          "type": "pneumatic"
+        },
+        {
+          "brand": "ARO",
+          "series": "EXP Series",
+          "type": "pneumatic"
+        }
+      ]
+    },
+    "metering_pump": {
+      "media_types": [
+        "precise_chemical",
+        "flocculant",
+        "disinfectant"
+      ],
+      "advantages": [
+        "high accuracy",
+        "adjustable flow"
+      ],
+      "disadvantages": [
+        "limited flow rate"
+      ],
+      "main_products": [
+        {
+          "brand": "SHUN-YI",
+          "series": "Standard",
+          "accuracy": "±1%"
+        },
+        {
+          "brand": "SHUN-YI",
+          "series": "Precision",
+          "accuracy": "±0.5%"
+        }
+      ]
+    }
+  },
+  "decision_factors": {
+    "primary": [
+      "media_type",
+      "flow_rate",
+      "head",
+      "temperature"
+    ],
+    "secondary": [
+      "material",
+      "cleanliness",
+      "explosion_proof",
+      "interface"
+    ],
+    "weight": {
+      "media_type": 0.35,
+      "flow_rate": 0.2,
+      "head": 0.2,
+      "temperature": 0.15,
+      "material": 0.1
+    }
+  }
+}
